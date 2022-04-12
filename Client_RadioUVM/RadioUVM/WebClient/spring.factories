@@ -1,2 +1,0 @@
-#Da inserire in resources/META-INF
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=eu.universome.ClientConfiguration
