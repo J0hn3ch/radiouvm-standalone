@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "../RadioUVM_Client"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
